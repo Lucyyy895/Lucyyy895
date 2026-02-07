@@ -58,8 +58,9 @@
 ### 🔧 Tools & Other
 ![VScode](https://img.shields.io/badge/VS_Code-FFB6C1?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
-![3D Printing](https://img.shields.io/badge/3D_Printing-FF1493?style=for-the-badge&logo=3d-systems&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FFC0CB?style=for-the-badge&logo=git&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D_Printing-FF1493?style=for-the-badge&logo=3d-systems&logoColor=white)
+![Autodesk Fusion](https://img.shields.io/badge/Fusion_360-FF1493?style=for-the-badge&logo=autodesk&logoColor=white)
 
 <br>
 <hr height="2px">
