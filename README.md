@@ -38,39 +38,39 @@
 ## 🛠 My Tech Stack
 
 ### ⌨️ Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-FFC0CB?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-FFC0CB?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFB6C1?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-89CFF0?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-89CFF0?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🚀 Frameworks & Frontend
 ![React](https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-FF69B4?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-FF1493?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-89CFF0?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-FFB6C1?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🗄️ Backend, Databases & APIs
-![NodeJS](https://img.shields.io/badge/Node.js-FFC0CB?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-FFB6C1?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-FF69B4?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-FF1493?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FFC0CB?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-89CFF0?style=for-the-badge&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-FFB6C1?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-89CFF0?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FFB6C1?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### 🎨 Design & Deployment
 ![Figma](https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-FF69B4?style=for-the-badge&logo=canva&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-FF1493?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-FFC0CB?style=for-the-badge&logo=netlify&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-89CFF0?style=for-the-badge&logo=canva&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-FFB6C1?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-89CFF0?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### 🔧 Tools & Other
 ![VScode](https://img.shields.io/badge/VS_Code-FFB6C1?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-FF1493?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-FFC0CB?style=for-the-badge&logo=trello&logoColor=white)
+![Git](https://img.shields.io/badge/Git-89CFF0?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-FFB6C1?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-89CFF0?style=for-the-badge&logo=trello&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-FFB6C1?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![Autodesk Fusion](https://img.shields.io/badge/Fusion_360-FF69B4?style=for-the-badge&logo=autodesk&logoColor=white)
-![PrusaSlicer](https://img.shields.io/badge/PrusaSlicer-FF1493?style=for-the-badge&logo=prusa&logoColor=white)
-![3D Printing](https://img.shields.io/badge/3D_Printing-FFC0CB?style=for-the-badge&logo=3d-systems&logoColor=white)
+![Autodesk Fusion](https://img.shields.io/badge/Fusion_360-89CFF0?style=for-the-badge&logo=autodesk&logoColor=white)
+![PrusaSlicer](https://img.shields.io/badge/PrusaSlicer-FFB6C1?style=for-the-badge&logo=prusa&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D_Printing-89CFF0?style=for-the-badge&logo=3d-systems&logoColor=white)
 
 <br>
 <hr height="2px">
@@ -84,8 +84,7 @@
 
 ## 🤝 Connect with me
 <div align="center">
-  <img src="https://img.shields.io/badge/Discord-.lucinkaaa__-FF69B4?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-
+  <img src="https://img.shields.io/badge/Discord-.lucinkaaa__-89CFF0?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </div>
 <br>
 <br>
