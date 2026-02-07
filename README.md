@@ -78,7 +78,7 @@
 ## 🌍 Languages
 * 🩷 **Slovak** — *Native Speaker*
 * 🌸 **English** — *B2 Upper Intermediate*
-* 🌷 **German** — *A1/A2 (Currently learning)*
+* 🌷 **German** — *A1/A2*
 
 <hr height="2px">
 
