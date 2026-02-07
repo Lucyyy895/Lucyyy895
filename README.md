@@ -62,7 +62,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-FF1493?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-FFC0CB?style=for-the-badge&logo=netlify&logoColor=white)
 
-### 🔧 Tools & Productivity
+### 🔧 Tools & Other
 ![VScode](https://img.shields.io/badge/VS_Code-FFB6C1?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-FF1493?style=for-the-badge&logo=notion&logoColor=white)
