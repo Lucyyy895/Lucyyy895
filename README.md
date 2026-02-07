@@ -4,7 +4,7 @@
 
 
 ### 💻 Student & Tech Enthusiast | Web developer
-*"Exploring the world of code since 2022, turning curiosity into projects and mistakes into lessons."*
+> *"Exploring the world of code since 2022, turning curiosity into projects and mistakes into lessons."*
 
 ---
 
