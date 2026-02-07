@@ -12,9 +12,9 @@
 
 ## 👩 About me
 
-✨ I am a high school student from Slovakia exploring the world of programming, making my way through the challenges of code one bug at a time. 
+I am a high school student from Slovakia who discovered a passion for programming back in 2022. Since then, I’ve been spending my time exploring how things work behind the scenes. Even though coding can be a struggle sometimes, I enjoy the process of solving puzzles and learning something new from every single bug I find. ✨
 
-When I’m not coding or studying, I’m usually lost in the pages of a good book, out in nature, or spending time with animals. I also love the creativity and relaxation that comes with gaming 🎮.
+When I need a break from the screen, I love to slow down and clear my head with some music. You’ll often find me lost in a good book or out in nature, where I can just relax and enjoy the quiet. I have a huge soft spot for animals, and spending time with them always makes my day better 🐾. And when I want to be creative in a different way, I jump into gaming 🎮.
 
 <br>
 <hr height="2px">
