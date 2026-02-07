@@ -41,8 +41,8 @@ When I’m not coding or studying, I’m usually lost in the pages of a good boo
 ![TypeScript](https://img.shields.io/badge/TypeScript-FFC0CB?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FFC0CB?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-FFC0CB?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🚀 Frameworks & Frontend
 ![React](https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=white)
