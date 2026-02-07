@@ -3,7 +3,7 @@
 # 🌷 Hi there, I'm Lucia! 🩷
 
 
-### 💻 Student & Tech Enthusiast | Web developer
+### 💻 Junior Web Developer | Student | Tech explorer
 > *"Exploring the world of code since 2022, turning curiosity into projects and mistakes into lessons."*
 
 ---
