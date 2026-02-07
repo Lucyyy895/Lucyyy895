@@ -88,7 +88,10 @@
 
 </div>
 <br>
+<br>
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer" width="100%" />
+  <i>"Be brave enough to be bad at something new. Give yourself permission to be a beginner. No one starts at the finish line."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer" width="100%" />
 </div>
