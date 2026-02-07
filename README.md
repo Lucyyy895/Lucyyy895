@@ -28,7 +28,7 @@
     > *Technical training in 3D modeling, slicers, and print optimization.*
 
 * 🏆 **Coding Competitions Participant (2025 - 2026)**
-    > * **Algorithmic Challenges:** Competitive programming in Python, focusing on logic and data structures.
+    > * **Algorithmic Challenges:** Competitive programming in Python, focusing on logic, algorithms and data structures.
     > * **Tour de App:** Real-world web application development, including full-stack implementation and direct client communication.
 
 <br>
