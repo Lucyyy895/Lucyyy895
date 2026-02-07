@@ -21,7 +21,7 @@
 
 ## 🎓 Education & Certifications
 
-* 📜 **Fullstack Developer Career Path Certificate (2025)** – *Scrimba*
+* 📜 **The Fullstack Developer Path Certificate (2025)** – *Scrimba*
     > *An intensive **100+ hour** journey through **1000+ interactive lessons**, mastering everything from responsive UI design to complex server-side logic.*
 
 * 🛠️ **3D Printing Course Certificate (2025)** – *UNIZA (University of Žilina)*
