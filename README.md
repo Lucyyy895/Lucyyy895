@@ -29,7 +29,7 @@
 
 * 🏆 **Coding Competitions Participant (2025 - 2026)**
     > * **Algorithmic Challenges:** Competitive programming in Python, focusing on logic, algorithms and data structures.
-    > * **Tour de App:** Real-world web application development, including full-stack implementation and direct client communication.
+    > * **Tour de App:** Real-world web application development, including full-stack implementation and direct client communication. TdA 26 Grandfinale participant.
 
 <br>
 
